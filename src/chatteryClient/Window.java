@@ -45,9 +45,6 @@ public class Window extends JFrame implements Runnable {
 	private Client client;
 	private JTextPane chat;
 	JButton btnSenden;
-	private JTextField textField;
-	private JTextField textField_1;
-	private JTextField textField_2;
 	private JTextField usernameField;
 	private JButton btnSaveUsername;
 	private JTextField channelField;
